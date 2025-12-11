@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Daniela
 
-## A Career Changer | Fullstack Python Developer | 🇵🇪 🇺🇸
+## A Career Changer | Fullstack Python Developer | 🇨🇱 🇬🇧 🇧🇷
 
-Welcome to my GitHub! I'm a passionate developer on a journey to master fullstack Python development. After a successful career transition into tech, I'm now focused on building meaningful projects and continuously expanding my skills.
+Welcome to my GitHub! I'm a passionate developer on a journey to learn and master fullstack development. I'm focused on building meaningful projects and continuously expanding my skills.
 
 ---
 
@@ -15,21 +15,12 @@ Currently, I'm diving deep into:
 - **Frontend Development** — Creating intuitive user experiences with modern web technologies  
 - **Full Stack Integration** — Connecting the pieces to deliver complete solutions
 
----
-
-## 💻 Tech Stack
-
-**Languages:** Python, JavaScript, HTML, CSS  
-**Backend:** Django, Flask, FastAPI  
-**Frontend:** React, Vue.js  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Tools:** Git, Docker, VS Code, Postman
 
 ---
 
 ## 🚀 What I'm Working On
 
-I'm actively building projects that challenge me to apply and refine my fullstack skills. You'll find a mix of learning projects, experiments, and real-world applications in my repositories. Each one represents a step forward in my development journey.
+I'm actively learning how to build projects that challenge me to apply and refine my fullstack skills. You'll find a mix of learning projects, experiments, and real-world applications in my repositories. Each one represents a step forward in my development journey.
 
 ---
 
