@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer on a journey to learn and maste
 
 ## 🌟 About Me
 
-I'm a **bilingual developer** (Spanish/English) with a growth mindset and genuine enthusiasm for problem-solving through code. My transition to tech represents a commitment to continuous learning and pursuing work that excites me.
+I'm a **bilingual developer student** (Spanish/English) with a growth mindset and genuine enthusiasm for problem-solving through code. My transition to tech represents a commitment to continuous learning and pursuing work that excites me.
 
 Currently, I'm diving deep into:
 - **Backend Development** — Building robust APIs and scalable applications with Python
@@ -40,15 +40,7 @@ I'm always interested in collaborating, learning from others, and discussing tec
 - 🔗 Connect with me on [LinkedIn](#)
 - 📧 Reach out if you think we could build something together
 
----
 
-## 📊 A Little More About Me
-
-Beyond code, I value:
-- **Authenticity** — Real work over flashy resumes
-- **Continuous Learning** — Every project is an opportunity to grow
-- **Collaboration** — Better solutions come from diverse perspectives
-- **Clear Communication** — Especially across languages and cultures
 
 ---
 
